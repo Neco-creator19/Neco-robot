@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Coding\Shadow_X\bin\Debug\net10.0\Shadow_X.exe
+C:\Users\USER\Desktop\Coding\Shadow_X\bin\Debug\net10.0\Shadow_X.deps.json
+C:\Users\USER\Desktop\Coding\Shadow_X\bin\Debug\net10.0\Shadow_X.runtimeconfig.json
+C:\Users\USER\Desktop\Coding\Shadow_X\bin\Debug\net10.0\Shadow_X.dll
+C:\Users\USER\Desktop\Coding\Shadow_X\bin\Debug\net10.0\Shadow_X.pdb
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.AssemblyInfo.cs
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.dll
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\refint\Shadow_X.dll
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.pdb
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.genruntimeconfig.cache
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\ref\Shadow_X.dll
