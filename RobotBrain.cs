@@ -24,11 +24,8 @@ class RobotBrain
             return; // မှားရင် ပိတ်လိုက်မယ်
         }
 
-        Console.WriteLine("How much battery is left?");
-        int batteryLevel = int.Parse(Console.ReadLine()!);
 
         // Status စစ်ဆေးခြင်း
-        CheckBatteryStatus(batteryLevel);
 
         // [နေရာ ၂: အမိန့်ပေးစနစ် (Loop)]
         Console.WriteLine("System: " + robotName);
@@ -52,24 +49,39 @@ class RobotBrain
     // [နေရာ ၄: လုပ်ဆောင်ချက်များ (Methods)]
     static void ProcessInput(string cmd)
     {
-        switch (cmd)
+        switch (cmd.ToLower())
         {
-            case "Master1": Console.WriteLine("Master's First Task - " + myTasks[0]); break;
-            case "Master2": Console.WriteLine("Master's Second Task - " + myTasks[1]); break;
-            case "Master3": Console.WriteLine("Master's Third Task - " + myTasks[2]);break;
-            case "Master4": Console.WriteLine("Master's Fourth Task - " + myTasks[3]);break; 
-            case "Neco1": Console.WriteLine("Neco's First Task - " + necoTasks[0]); break;
-            case "Neco2": Console.WriteLine("Neco;s Second Task - " + necoTasks[1]);break;
-            case "Neco3": Console.WriteLine("Neco's Third Task - " + necoTasks[2]);break;  
-            default: Console.WriteLine("I do not understand that command, Master.🤖"); break;
+            case "master":
+                ListTasks(myTasks,"Master's Task List");break;
+            case "neco":
+            ListTasks(necoTasks, "Neco's Task List");break;
+            case "battery":
+        CheckBatteryStatus();break;
+            default:
+            Console.WriteLine("I do not understand that command, Master.🤖");break;
         }
     }
 
-    static void CheckBatteryStatus(int level)
+    static void CheckBatteryStatus()
     {
-        Console.WriteLine(" My current Battery Level: " + level + "%");
-        if (level >= 50) Console.WriteLine("Neco Status: Power is high.");
-        else if (level <= 20) Console.WriteLine("Neco Status: Warning: Recharge needed!");
-        else Console.WriteLine("Neco Status: Power is low.");
+        Random rnd = new Random();
+        int batteryLevel = rnd.Next(0, 101);
+
+        Console.WriteLine($"\n[System] Cerrent Battery: {batteryLevel}%");
+
+        if (batteryLevel <= 20)
+        Console.WriteLine("Warning: Recharge needed!");
+        else if (batteryLevel < 50)
+        Console.WriteLine("Status: Power is low.");
+        else
+        Console.WriteLine("Status: Power is optimal.");
+    }
+        static void ListTasks(string[]tasks, string title)
+    {
+        Console.WriteLine($"\n---{title} ---");
+        for (int i = 0; i < tasks.Length; i++)
+        {
+            Console.WriteLine($"{i + 1}. {tasks[i]}");
+        }
     }
 }
