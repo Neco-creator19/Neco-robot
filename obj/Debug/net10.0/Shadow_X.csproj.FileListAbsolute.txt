@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\refint\Shadow_X.dll
 C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.pdb
 C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.genruntimeconfig.cache
 C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\ref\Shadow_X.dll
+C:\Users\USER\Desktop\Coding\Shadow_X\obj\Debug\net10.0\Shadow_X.sourcelink.json

@@ -1,15 +1,42 @@
 using System;
-
+using System.IO;
 class RobotBrain
 {
     // Variables များ (Class ရဲ့ အပြင်ဘက်မှာ သတ်မှတ်ပါ)
-    static string[] myTasks = { "Review Neco's code", "Attend school", "Practice logic", "Do homework" };
-    static string[] necoTasks = { "Check battery", "Monitor system", "Optimize memory" };
-
+    static string[] myTasks = { "Review Neco's code", "Attend school", "Practice logic","Learning Physic",
+    "learning other Knowledge", "Do homework" };
+    static string[] necoTasks = { "Check battery", "Monitor system", "Optimize memory",
+    "help Master Han","" };
+    static int  batteryLevel = 100;
+    
+    static string  robotName = "My name is Neco.";
     static void Main() // ဒါက Program စတင်တဲ့နေရာ
     {
+        bool isAuthorized = GreetUser();
+        if (isAuthorized)
+        {
+            CheckBattery();
+        RunLoop();
+        ReadData();
+        }
+        else
+        {
+            Console.WriteLine("System shutting down...");
+        }
+    }
+    static void CheckBattery()
+            {
+                if (batteryLevel < 30)
+                {
+                    Console.WriteLine("Battery is low! Saving state...");
+            SaveData("Wrning: Battery Low!");
+                }
+
+            }
+    static bool GreetUser()
+    {
         // [နေရာ ၁: မှတ်ဉာဏ်များ]
-        string robotName = "My name is Neco.";
+        
         Console.WriteLine("Who create Me?");
         string creatorName = Console.ReadLine()!;
 
@@ -17,14 +44,16 @@ class RobotBrain
         {
             Console.WriteLine("Thank you My Creator " + creatorName + ".");
             Console.WriteLine("Master, I pledge my loyalty. 🤖");
+            return true;
         }
         else
         {
             Console.WriteLine("Identity verification failed.");
-            return; // မှားရင် ပိတ်လိုက်မယ်
+            return false;
         }
-
-
+    }
+    static void RunLoop()
+    {
         // Status စစ်ဆေးခြင်း
 
         // [နေရာ ၂: အမိန့်ပေးစနစ် (Loop)]
@@ -32,6 +61,13 @@ class RobotBrain
         bool isActive = true;
         while (isActive)
         {
+            batteryLevel -= 5;
+            Console.WriteLine($"Current Battery: {batteryLevel}%");
+            
+            if (batteryLevel < 30)
+            {
+                CheckBattery();
+            }
             Console.WriteLine("\nNeco: How may I assist you? (Type 'exit' to quit.)");
             string cmd = Console.ReadLine()!;
 
@@ -58,7 +94,9 @@ class RobotBrain
             case "battery":
         CheckBatteryStatus();break;
             default:
-            Console.WriteLine("I do not understand that command, Master.🤖");break;
+            Console.WriteLine("I do not understand that command, Master.🤖");
+            Console.WriteLine("Available commands: 'master, 'neco', 'battery', 'exit'.");
+            break;
         }
     }
 
@@ -83,5 +121,26 @@ class RobotBrain
         {
             Console.WriteLine($"{i + 1}. {tasks[i]}");
         }
+    }
+    static void SaveData(string content)
+    {
+        //data.txt file write
+        File.WriteAllText("data.txt", content);
+        Console.WriteLine("Data saved to file successfully");
+    }
+
+        static void ReadData()
+    {
+        if (File.Exists("data.txt"))
+        {
+            string content = File.ReadAllText("data.txt");
+            Console.WriteLine("Robot's Memory: " + content);
+        }
+        else
+        {
+            Console.WriteLine("memory file not found!");
+        }
+
+
     }
 }

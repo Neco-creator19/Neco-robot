@@ -1,0 +1,6 @@
+# Visual Stusio files
+bin/
+obj/
+*.user
+*.lock
+.vs/
