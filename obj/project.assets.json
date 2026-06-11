@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Coding\\Shadow_X\\Shadow_X.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Programming\\Shadow_X\\Shadow_X.csproj",
       "projectName": "Shadow_X",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Coding\\Shadow_X\\Shadow_X.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Programming\\Shadow_X\\Shadow_X.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Coding\\Shadow_X\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Programming\\Shadow_X\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
