@@ -1,38 +1,18 @@
 using System;
 using System.IO;
 
-class RobotBrain
+public class RobotBrain
 {
     
-    static string[] myTasks = { "Review Neco's code", "Attend school", "Practice logic", "Learning Physic", 
-    "learning other Knowledge", "Do homework" };
-    static string[] necoTasks = { "Check battery", "Monitor system", "Optimize memory", "help Master Han" };
-    static int batteryLevel = 100;
+    public static int batteryLevel = 100;
     static string robotName = "My name is Neco.";
 
     public static void CheckBattery()
     {
-        if (batteryLevel < 30)
+        Console.WriteLine($"Current Battery: {batteryLevel}%");
+        if (batteryLevel < 20)
         {
-            Console.WriteLine("Battery is low! Saving state...");
-            SaveData("Warning: Battery Low!");
-        }
-    }
-
-    public static bool GreetUser()
-    {
-        Console.WriteLine("Password");
-        string creatorName = Console.ReadLine()!;
-        if (creatorName == "ne135")
-        {
-            Console.WriteLine("Thank you My Creator " + creatorName + ".");
-            Console.WriteLine("Master, I pledge my loyalty. 🤖");
-            return true;
-        }
-        else
-        {
-            Console.WriteLine("Identity verification failed.");
-            return false;
+            SaveData("Warning: Battery is Low!");
         }
     }
 
@@ -41,18 +21,11 @@ class RobotBrain
         Console.WriteLine("System: " + robotName);
         bool isActive = true;
         while (isActive)
-        {
-            batteryLevel -= 5;
-            if (TaskHandler .IsBatteryEmpty(batteryLevel))
-            {
-                break;
-            }
-
-            Console.WriteLine($"Current Battery: {batteryLevel}%");
+        {Console.WriteLine($"Current Battery: {batteryLevel}%");
             if (batteryLevel < 30) CheckBattery();
             
             Console.WriteLine("\nNeco: How may I assist you? (Type 'exit' to quit.)");
-            Console.WriteLine("\nNeco: You can ask me about this 'master', 'neco', 'battery'");
+            Console.WriteLine("\nNeco: I can say to you 'master', 'neco', 'battery'");
 
             string cmd = Console.ReadLine()!;
             if (cmd.ToLower() == "exit")
@@ -60,12 +33,19 @@ class RobotBrain
             isActive = false;
             return;
             }
+
+            batteryLevel -= 2;
+            if (TaskHandler .IsBatteryEmpty(batteryLevel))
+            {
+                Console.WriteLine("Battery critical. System shutting down.");break;
+            }
+
             TaskHandler.ProcessCommand(cmd, ref batteryLevel);
         }
     }
 
     
-    static void CheckBatteryStatus()
+    public static void CheckBatteryStatus()
     {
         Random rnd = new Random();
         int b = rnd.Next(0, 101);
@@ -75,13 +55,13 @@ class RobotBrain
         else Console.WriteLine("Status: Power is optimal.");
     }
 
-    static void SaveData(string content)
+    public static void SaveData(string content)
     {
         File.WriteAllText("data.txt", content);
         Console.WriteLine("Data saved to file successfully");
     }
 
-    public static void ReadData()
+    public  static void ReadData()
     {
         if (File.Exists("data.txt"))
         {

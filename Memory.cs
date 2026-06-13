@@ -6,13 +6,19 @@ public class Memory
     public static string userName = "";
     public static string memoryFile = "robot_memory.txt";
     
-    public static void
-    LoadUserName()
+    public static void LoadUserName()
     {
-        if
-        (File.Exists(memoryFile))
+        try
         {
-            userName = File.ReadAllText(memoryFile);
+            if
+            (File.Exists(memoryFile))
+            {
+                    userName = File.ReadAllText(memoryFile).Trim();
+            }
+        }
+        catch
+        {
+            Console.WriteLine("[Error] Could not access memory file.");
         }
         if
         (string.IsNullOrEmpty(userName))
@@ -29,11 +35,8 @@ public class Memory
         }
     }
 
-public static void 
-SaveUserName()
+public static void SaveUserName()
     {
         File.WriteAllText(memoryFile, userName);
     }
-
-
 }

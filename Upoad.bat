@@ -4,4 +4,3 @@ git add .
 git commit -m "Auto update"
 git push
 echo Upload Successful!
-timeout /t 3
