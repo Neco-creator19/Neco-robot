@@ -1,0 +1,1469 @@
+1. [Components] Bolt: A threaded fastener with a head, designed to be used with a nut.
+
+2. [Components] Nut: A type of fastener with a threaded hole, used with a bolt.
+
+3. [Components] Washer: A thin plate with a hole, used to distribute the load of a threaded fastener.
+
+4. [Components] Screw: A fastener characterized by a helical ridge, used for wood or metal.
+
+5. [Components] Rivet: A permanent mechanical fastener consisting of a smooth cylindrical shaft with a head.
+
+6. [Components] Cotter Pin: A metal fastener with two tines that are bent during installation, used to 
+                            fasten metal parts.
+
+7. [Components] Retaining Ring: A fastener that holds components or assemblies onto a shaft or in a housing.
+
+8. [Components] Grub Screw: A type of screw generally used to secure an object within or against another object.
+
+9. [Components] Dowel Pin: A cylindrical fastener that holds two or more objects in a fixed position.
+
+10. [Components] Threaded Insert: A fastener element inserted into an object to add a threaded hole.
+
+11. [Components] Spur Gear: A gear with teeth cut parallel to the axis of rotation.
+
+12. [Components] Helical Gear: A gear with teeth cut at an angle to the axis, allowing for smoother engagement.
+
+13. [Components] Bevel Gear: Gears designed to transmit motion between intersecting axes.
+
+14. [Components] Rack: A toothed bar that meshes with a pinion gear.
+
+15. [Components] Sprocket: A profiled wheel with teeth that mesh with a chain.
+
+16. [Components] Roller Chain: A drive chain consisting of a series of short cylindrical rollers.
+
+17. [Components] V-Belt: A belt with a trapezoidal cross-section used to drive pulleys.
+
+18. [Components] Timing Belt: A belt with teeth used to synchronize the rotation of shafts.
+
+19. [Components] Pulley: A wheel on an axle used to support movement or change direction of a cable or belt.
+
+20. [Components] Universal Joint: A linkage that allows rods to rotate at different angles.
+
+21. [Components] Flexible Shaft: A cable that transmits rotational motion between two non-aligned axes.
+
+22. [Components] Coupler: A component used to connect two shafts for power transmission.
+
+23. [Components] Overrunning Clutch: A device that allows torque transmission in one direction only.
+
+24. [Components] Magnetic Clutch: A clutch that uses electromagnetic force to engage or disengage.
+
+25. [Components] Torque Limiter: A device that protects mechanical equipment from damage due to mechanical overload.
+
+26. [Components] Gusset: A bracket used to strengthen an angular joint.
+
+27. [Components] Stiffener: A structural element added to a member to increase its rigidity.
+
+28. [Components] Strut: A structural component that resists longitudinal compression.
+
+29. [Components] Tie Rod: A structural rod used to handle tension loads.
+
+30. [Components] Truss Member: A single rigid member within a truss assembly.
+
+31. [Components] I-Beam: A beam with an I-shaped cross-section, used for high-load structural support.
+
+32. [Components] Channel Iron: A structural component with a U-shaped cross-section.
+
+33. [Components] Angle Iron: An L-shaped structural steel product.
+
+34. [Components] Base Plate: A metal plate used to distribute the load of a column to the foundation.
+
+35. [Components] Shim: A thin, often tapered piece of material used to fill small gaps.
+
+36. [Components] Limit Switch: An electromechanical device that acts as an input to a control system based
+                               on position.
+37. [Components] Proximity Sensor: A sensor able to detect the presence of nearby objects without physical contact.
+
+38. [Components] Encoder: A sensor that detects position and speed by converting rotary motion to digital signals.
+
+39. [Components] Potentiometer: A three-terminal resistor used to measure position via a sliding contact.
+
+40. [Components] Load Cell: A transducer used to create an electrical signal whose magnitude is 
+                            directly proportional to the force.
+
+41. [Components] Thermocouple: A sensor for measuring temperature consisting of two dissimilar conductors.
+
+42. [Components] Pressure Transducer: A device that converts pressure into an electrical signal.
+
+43. [Components] Accelerometer: A device that measures proper acceleration.
+
+44. [Components] Gyroscope: A device used for measuring orientation and angular velocity.
+
+45. [Components] LVDT: A linear variable differential transformer used for measuring linear displacement.
+
+46. [Components] Solenoid Valve: An electromechanically operated valve.
+
+47. [Components] Check Valve: A valve that allows fluid to flow in only one direction.
+
+48. [Components] Pressure Regulator: A valve that automatically cuts off the flow of a liquid or gas at 
+                                    a certain pressure.
+
+49. [Components] Flow Control Valve: A valve used to regulate the rate of fluid flow.
+
+50. [Components] Manifold: A component that distributes fluid from one source to many paths.
+
+51. [Components] Orifice Plate: A device used for measuring flow rate and reducing pressure.
+
+52. [Components] Accumulator: A pressure storage reservoir in which an incompressible hydraulic fluid is held.
+
+53. [Components] Filter: A device that removes impurities from fluid or air.
+
+54. [Components] O-ring: A mechanical gasket in the shape of a torus, used for sealing.
+
+55. [Components] Packing: A material used to fill the space between two parts to prevent leakage.
+
+56. [Components] Thrust Bearing: Designed to support axial loads.
+
+57. [Components] Needle Bearing: A bearing that uses long, thin cylindrical rollers.
+
+58. [Components] Spherical Bearing: A bearing that allows angular rotation in all directions.
+
+59. [Components] Pillow Block: A pedestal used to provide support for a rotating shaft.
+
+60. [Components] Flange Bearing: A bearing with a flange to facilitate mounting.
+
+61. [Components] Linear Bearing: A bearing designed to provide free motion in one dimension.
+
+62. [Components] Plain Bearing: The simplest type of bearing consisting of just a bearing surface.
+
+63. [Components] Journal Bearing: A simple sleeve bearing supporting a rotating shaft.
+
+64. [Components] Tapered Roller Bearing: Designed to handle large radial and thrust loads.
+
+65. [Components] Angular Contact Bearing: Designed to carry combined radial and axial loads.
+
+66. [Components] Ceramic Ball Bearing: Uses ceramic balls to reduce friction and heat.
+
+67. [Components] Needle Roller: Smaller diameter rolling elements for high load capacity.
+
+68. [Components] Cage: A part that keeps the rolling elements separated.
+
+69. [Components] Race: The path on which the bearing elements roll.
+
+70. [Components] Seal Ring: Protects the bearing from contaminants.
+
+71. [Components] Dust Shield: A non-contact shield to prevent dust ingress.
+
+72. [Components] Bearing Housing: The structure that contains the bearing.
+
+73. [Components] Retainer: A clip or device that keeps parts in place.
+
+74. [Components] Snap Ring: A semi-flexible metal ring for locking components.
+
+75. [Components] Spacer: A piece used to create distance between two objects.
+
+76. [Components] Linear Actuator: Converts energy into linear motion.
+
+77. [Components] Rack Gear: A linear gear that engages with a circular gear.
+
+78. [Components] Leadscrew: A screw used as a linkage in a machine.
+
+79. [Components] Ball Screw: A mechanical linear actuator that translates rotational motion to linear 
+                            motion with low friction.
+
+80. [Components] Acme Screw: A lead screw with an acme thread profile.
+
+81. [Components] Worm: The gear in a worm drive system.
+
+82. [Components] Rack and Pinion Assembly: A unit converting rotational to linear motion.
+
+83. [Components] Toggle Clamp: A fast-acting clamping mechanism.
+
+84. [Components] Scotch Yoke: A mechanism for converting linear motion into rotational motion.
+
+85. [Components] Geneva Drive Wheel: A mechanism converting continuous to intermittent rotation.
+
+86. [Components] Ratchet Wheel: A gear-like wheel that works with a pawl.
+
+87. [Components] Pawl Spring: Holds the pawl in contact with the ratchet.
+
+88. [Components] Cam Follower: A specialized roller designed to follow cam profiles.
+
+89. [Components] Slider: A component that moves along a guide.
+
+90. [Components] Guide Rail: A track that supports and guides moving parts.
+
+91. [Components] Linear Guide: A system providing precise linear motion.
+
+92. [Components] Ball Bushing: A linear motion bearing utilizing recirculating balls.
+
+93. [Components] Cable: A sturdy, flexible rope made of metal wires.
+
+94. [Components] Wire Rope: A rope made of several strands of metal wire.
+
+95. [Components] Turnbuckle: A device for adjusting the tension of ropes or cables.
+
+96. [Components] Clevis: A U-shaped piece with holes for a pin.
+
+97. [Components] Rod End: A bearing with a threaded shaft.
+
+98. [Components] Spherical Joint: Allows multi-axis motion in a linkage.
+
+99. [Components] Flexure: A flexible element used for precise motion.
+
+100. [Components] Pivot: A central point on which a mechanism turns.
+
+
+
+
+
+
+
+
+
+
+
+
+101. [Components] Compression Spring: A helical spring that resists axial compression.
+
+102. [Components] Extension Spring: A spring designed to operate with a tensile load.
+
+103. [Components] Die Spring: A high-strength spring used in heavy-duty applications.
+
+104. [Components] Wave Spring: A spring with a wave-like shape for tight spaces.
+
+105. [Components] Belleville Washer: A conical spring washer.
+
+106. [Components] Cantilever Spring: A spring supported at only one end.
+
+107. [Components] Gas Spring: Uses compressed gas to provide force.
+
+108. [Components] Damper: A device for stopping or reducing vibration.
+
+109. [Components] Shock Absorber: A mechanical device to absorb and damp shock impulses.
+
+110. [Components] Rubber Bumper: A soft material used to absorb impact.
+
+111. [Components] Leaf Spring: A stack of flat metal plates.
+
+112. [Components] Coil: A spiral configuration of wire.
+
+113. [Components] Pitch: The distance between coils in a spring.
+
+114. [Components] Wire Diameter: The thickness of the spring material.
+
+115. [Components] Free Length: The length of a spring without load.
+
+116. [Components] Solid Height: The length of a spring when fully compressed.
+
+117. [Components] Spring Rate: The force required to compress a spring per unit length.
+
+118. [Components] Spring Index: The ratio of the mean coil diameter to wire diameter.
+
+119. [Components] Torsion Bar: A steel bar used as a spring for rotation.
+
+120. [Components] Volute Spring: A spring with a spiral conical shape.
+
+121. [Components] Flat Spring: A simple flat piece of spring steel.
+
+122. [Components] Snubber: A device to limit the movement of an object.
+
+123. [Components] Isolator: A mount to reduce vibration transmission.
+
+124. [Components] Mounting Pad: A rubberized base for vibration damping.
+
+125. [Components] Buffer: A device to soften an impact.
+
+126. [Components] Key: A machine element used to prevent relative rotation between a shaft and a hub.
+
+127. [Components] Feather Key: A key that allows the hub to slide along the shaft.
+
+128. [Components] Woodruff Key: A semi-circular key used for tapered shafts.
+
+129. [Components] Pin: A cylindrical fastener.
+
+130. [Components] Taper Pin: A pin with a slight taper for precise fit.
+
+131. [Components] Spring Pin: A hollow pin that exerts spring force to lock.
+
+132. [Components] Threaded Rod: A long rod with threads on both ends.
+
+133. [Components] Stud: A rod threaded on both ends for assembly.
+
+134. [Components] Eye Bolt: A bolt with a loop at the head end.
+
+135. [Components] Wing Nut: A nut with wings for easy manual turning.
+
+136. [Components] Cap Nut: A nut with a domed top to cover the thread.
+
+137. [Components] Lock Nut: A nut that resists loosening due to vibration.
+
+138. [Components] Castle Nut: A nut with slots for a cotter pin.
+
+139. [Components] Self-Tapping Screw: A screw that creates its own threads.
+
+140. [Components] Set Screw: Used to secure an object to a shaft.
+
+141. [Components] Flat Washer: Standard circular washer.
+
+142. [Components] Spring Washer: A split washer providing tension to prevent loosening.
+
+143. [Components] Internal Retaining Ring: Fits inside a bore.
+
+144. [Components] External Retaining Ring: Fits onto a shaft.
+
+145. [Components] C-Clip: A type of retaining ring shaped like a C.
+
+146. [Components] E-Clip: A retaining ring with three internal prongs.
+
+147. [Components] Rivet Nut: A fastener that provides a thread in thin sheet metal.
+
+148. [Components] Standoff: A spacer used to raise one part above another.
+
+149. [Components] Nylon Spacer: A non-conductive distance holder.
+
+150. [Components] Fiber Washer: Used for sealing or preventing damage to surfaces.
+
+151. [Components] Elbow: A pipe fitting that changes direction.
+
+152. [Components] Tee: A pipe fitting with three openings.
+
+153. [Components] Reducer: A fitting that connects pipes of different sizes.
+
+154. [Components] Union: A pipe fitting that allows easy disconnection.
+
+155. [Components] Flange: A rim used for bolting pipe sections together.
+
+156. [Components] Nipple: A short pipe fitting threaded on both ends.
+
+157. [Components] Pipe Coupling: A fitting used to join two pipes.
+
+158. [Components] Cap: A fitting that seals the end of a pipe.
+
+159. [Components] Plug: A fitting that seals a female-threaded port.
+
+160. [Components] Hose: A flexible tube for conveying fluids.
+
+161. [Components] Tubing: A rigid or semi-rigid pipe.
+
+162. [Components] Quick Connect: A coupling for fast attachment/detachment.
+
+163. [Components] Barb: A fitting for flexible hose connections.
+
+164. [Components] Ferrule: A ring used to seal a compression fitting.
+
+165. [Components] Gasket: A mechanical seal between two surfaces.
+
+166. [Components] Mechanical Seal: A device to prevent leakage at a shaft.
+
+167. [Components] Lip Seal: A seal used for rotating shafts.
+
+168. [Components] Buna-N O-ring: A common synthetic rubber O-ring.
+
+169. [Components] Back-up Ring: Prevents O-ring extrusion under pressure.
+
+170. [Components] Clamp: A device to hold objects together tightly.
+
+171. [Components] Bracket: A support member for mounting components.
+
+172. [Components] Support: Any structural element holding weight.
+
+173. [Components] Hanger: A support for pipes or cables.
+
+174. [Components] Strainer: A device to filter large particles from fluid.
+
+175. [Components] Trap: A device to prevent backflow or gas release.
+
+176. [Components] Terminal Block: A modular connector for wires.
+
+177. [Components] DIN Rail: A standard metal rail for mounting industrial components.
+
+178. [Components] Cable Gland: A device to secure a cable to an enclosure.
+
+179. [Components] Circular Connector: A connector with a cylindrical interface.
+
+180. [Components] D-Sub Connector: A common multi-pin connector for data.
+
+181. [Components] Relay: An electrically operated switch.
+
+182. [Components] Contact: The conducting part of a switch.
+
+183. [Components] Brush: Conducts current to moving parts in motors.
+
+184. [Components] Commutator: A rotary switch in DC motors.
+
+185. [Components] Slip Ring: Conducts current to rotating assemblies.
+
+186. [Components] Busbar: A metallic strip for high-current distribution.
+
+187. [Components] Fuse: A safety device that melts to break a circuit.
+
+188. [Components] Circuit Breaker: An automatic switch to protect circuits.
+
+189. [Components] Enclosure: A protective housing for electronics.
+
+190. [Components] Heat Sink: A device to dissipate heat from components.
+
+191. [Components] Cooling Fan: A fan to circulate air for cooling.
+
+192. [Components] EMI Filter: Reduces electromagnetic interference.
+
+193. [Components] Toggle Switch: A manually operated switch with a lever.
+
+194. [Components] Pushbutton: A switch operated by pressing a button.
+
+195. [Components] Indicator Light: A lamp to show device status.
+
+196. [Components] Buzzer: An audio signaling device.
+
+197. [Components] Potentiometer Knob: The manual interface for a potentiometer.
+
+198. [Components] Cable Track: Protects and guides moving cables.
+
+199. [Components] Conduit: A tube to protect electrical wiring.
+
+200. [Components] Grommet: A protective ring used to cover a hole edge.
+
+
+
+
+
+
+
+
+
+
+201. [Components] Blind Rivet: A rivet used for blind fastening in closed sections.
+
+202. [Components] Shoulder Bolt: A bolt with a smooth, unthreaded section between the head and threads.
+
+203. [Components] Carriage Bolt: A bolt with a domed head and a square neck for non-rotational fastening.
+
+204. [Components] U-Bolt: A U-shaped bolt with threads on both ends.
+
+205. [Components] Anchor Bolt: A fastener used to attach objects to concrete.
+
+206. [Components] Toggle Bolt: A fastener with spring-loaded wings for hollow walls.
+
+207. [Components] Weld Nut: A nut designed to be welded onto a metal surface.
+
+208. [Components] Rivet Nut: A tubular rivet with internal threads.
+
+209. [Components] T-Nut: A nut used to fasten wood or composite materials.
+
+210. [Components] Jam Nut: A thin nut used to lock another nut in place to prevent loosening.
+
+211. [Components] Castellated Nut: A nut with slots to accept a cotter pin.
+
+12. [Components] Slotted Nut: A nut with grooves to allow for locking.
+
+213. [Components] Acorn Nut: A nut with a domed top to cover and protect external threads.
+
+214. [Components] Flange Nut: A nut with a wide flange acting as an integrated washer.
+
+215. [Components] Hex Standoff: A hexagonal-shaped spacer used to maintain distance between two parts.
+
+216. [Components] Spring Toggle: A toggle fastener that utilizes a spring-loaded mechanism.
+
+217. [Components] Grub Screw (Cone Point): A set screw with a conical tip for precise positioning.
+
+218. [Components] Dowel Pin (Tapered): A pin slightly tapered for easy alignment and insertion.
+
+129. [Components] Spring Dowel (Roll Pin): A hollow, slotted cylinder that acts as a spring-loaded fastener.
+
+220. [Components] Circlip: A type of retaining ring used to secure components on a shaft.
+
+221. [Components] Internal Gear: A gear with teeth cut on the inside of a cylinder.
+
+222. [Components] Miter Gear: A type of bevel gear used for 90-degree angular rotation.
+
+223. [Components] Hypoid Gear: A spiral bevel gear used for non-intersecting axes.
+
+224. [Components] Rack and Pinion (Helical): A gear system with helical teeth for smoother operation.
+
+225. [Components] Idler Gear: A gear used between two other gears to change rotational direction.
+
+226. [Components] Planetary Carrier: The structure that holds and supports the planet gears.
+
+227. [Components] Sun Gear: The central gear in a planetary gear system.
+
+228. [Components] Ring Gear (Annulus): The outer gear surrounding the planetary gear system.
+
+229. [Components] Planet Gear: The gears that revolve around the sun gear.
+
+230. [Components] Sprocket (Split): A sprocket that can be separated into two halves for easy installation.
+
+231. [Components] Timing Pulley: A pulley with teeth designed for use with a timing belt.
+
+232. [Components] Flat Belt: A belt with a rectangular cross-section.
+
+233. [Components] Round Belt: A belt with a circular cross-section.
+
+234. [Components] Chain Tensioner: A device used to maintain proper tension in a drive chain.
+
+235. [Components] Flexible Coupling (Jaw): A coupling that uses an elastomer insert to connect two shafts.
+
+236. [Components] Flexible Coupling (Bellows): A high-precision coupling used in servo applications.
+
+237. [Components] Universal Joint (Double): Two universal joints connected by an intermediate shaft.
+
+238. [Components] Speed Reducer: A gear mechanism that reduces input speed to increase torque.
+
+239. [Components] Torque Converter (Stator): The stationary component inside a torque converter.
+
+240. [Components] Variable Speed Drive (VSD): An electronic device for controlling electric motor speed.
+
+241. [Components] T-Slot Aluminum Profile: Extruded aluminum profile used for modular framing.
+
+242. [Components] Corner Bracket: A bracket used to join profiles at a 90-degree angle.
+
+243. [Components] Leveling Foot: An adjustable base to ensure machinery is level.
+
+244. [Components] Caster Wheel: A wheel mounted to a frame for mobility.
+
+245. [Components] Vibration Isolator (Mount): A device designed to dampen vibrations.
+
+246. [Components] Linear Rail (Profile): A rigid track for linear motion systems.
+
+247. [Components] Linear Carriage (Block): The sliding component that moves along a linear rail.
+
+248. [Components] Lead Nut (Acme): A nut specifically threaded for an acme screw.
+
+249. [Components] Ball Screw Nut: The assembly that contains recirculating balls for a ball screw.
+
+250. [Components] Pillow Block Housing: The housing used to support a rotating shaft and bearing.
+
+251. [Components] Needle Valve: A valve with a tapered pin for precise flow control.
+
+252. [Components] Ball Valve: A valve that uses a spherical disc to control flow.
+
+253. [Components] Butterfly Valve: A valve that uses a disc to throttle fluid flow.
+
+254. [Components] Diaphragm Valve: A valve that uses a flexible membrane to isolate the flow.
+
+255. [Components] Quick-Exhaust Valve: A valve designed to vent pneumatic air rapidly.
+
+256. [Components] Air Filter-Regulator-Lubricator (FRL): A combination unit for air supply conditioning.
+
+257. [Components] Venturi Tube: A device used to measure flow rate via pressure differential.
+
+258. [Components] Sight Glass: A transparent tube used to observe fluid levels.
+
+259. [Components] Hydraulic Cylinder (Double-Acting): A cylinder that uses hydraulic pressure to extend and retract.
+
+260. [Components] Pneumatic Gripper: An actuator used for holding objects using compressed air.
+
+261. [Components] Rotary Actuator: A device that produces torque for limited angular rotation.
+
+262. [Components] Blow-off Nozzle: A nozzle used for cleaning parts with compressed air.
+
+263. [Components] Heat Pipe: A device for efficient heat transfer.
+
+264. [Components] Desiccant Filter: A filter used to remove moisture from air lines.
+
+265. [Components] Flow Meter: An instrument used to measure the volume of a fluid.
+
+266. [Components] Peltier Module: A thermoelectric cooler/heater module.
+
+267. [Components] Cartridge Heater: A tubular heating element used in industrial applications.
+
+268. [Components] Bimetallic Strip: A strip composed of two metals that bends when heated.
+
+269. [Components] Thermal Paste: A substance to improve heat transfer between surfaces.
+
+270. [Components] Insulation Blanket: Material used to wrap equipment to minimize heat loss.
+
+271. [Components] Casting (Investment): A component manufactured via lost-wax casting.
+
+272. [Components] Forging: A component formed by applying compressive force to metal.
+
+273. [Components] Extruded Profile: A component formed by pushing material through a die.
+
+274. [Components] Sintered Part: A component formed from metal powder under heat and pressure.
+
+275. [Components] Gasket (Spiral Wound): A high-pressure sealing gasket.
+
+276. [Components] Reed Switch: A switch operated by a magnetic field.
+
+277. [Components] Hall Effect Sensor: A sensor that detects magnetic fields.
+
+278. [Components] Phototransistor: A transistor that is sensitive to light.
+
+279. [Components] Rotary Encoder (Absolute): An encoder that provides a unique position output.
+
+280. [Components] Rotary Encoder (Incremental): An encoder that provides relative position pulses.
+
+281. [Components] Servo Drive: The electronic controller for a servo motor.
+
+282. [Components] Stepper Driver: A circuit that controls current to a stepper motor.
+
+283. [Components] Solid State Relay (SSR): A relay that has no moving parts.
+
+284. [Components] Contactor: A heavy-duty relay for switching power.
+
+285. [Components] Inductive Sensor: A sensor that detects metallic objects without contact.
+
+286. [Components] Capacitive Sensor: A sensor that detects both metallic and non-metallic objects.
+
+287. [Components] Ultrasonic Sensor: A sensor that uses sound waves to measure distance.
+
+288. [Components] Light Curtain: A safety device that uses light beams to detect personnel.
+
+289. [Components] Emergency Stop Button: A button used to halt machine operation immediately.
+
+290. [Components] PLC: The central control unit for automated systems.
+
+291. [Components] HMI: A touchscreen interface for human-machine interaction.
+
+292. [Components] Transformer (Toroidal): A ring-shaped transformer.
+
+293. [Components] Ferrite Bead: A component used to suppress electromagnetic interference.
+
+294. [Components] Capacitor (Electrolytic): A component used for storing electrical energy.
+
+295. [Components] Diode: A device that allows current to flow in only one direction.
+
+296. [Components] Transistor (IGBT): A high-power switching transistor.
+
+297. [Components] Potentiometer (Multi-turn): A resistor for fine electrical adjustment.
+
+298. [Components] Cable Drag Chain (E-Chain): A guide to protect moving cables.
+
+299. [Components] Grounding Strap: A conductive strap used to prevent static buildup.
+
+300. [Components] Circuit Board (PCB): The substrate for mounting electronic components.
+
+
+
+
+
+
+
+
+
+
+
+301. [Components] Grease Fitting (Zerk): A fitting used to inject grease into bearings.
+
+302. [Components] Oil Sight Gauge: A gauge used to check the oil level in a gearbox.
+
+303. [Components] Tool Holder: A device used to secure tools in CNC machines.
+
+304. [Components] Collet Nut: A nut used to tighten a collet onto a tool.
+
+305. [Components] Drill Bushing: A hardened steel guide for drills.
+
+306. [Components] Indexing Plunger: A pin used to lock rotating parts in specific positions.
+
+307. [Components] Ball Plunger: A spring-loaded ball used for detent mechanisms.
+
+308. [Components] Leveling Mount: A mount used to level industrial equipment.
+
+309. [Components] Vibration Pad: A rubber pad used to absorb vibration.
+
+310. [Components] Handwheel: A manual wheel for operating machine functions.
+
+311. [Components] Crank Handle: A manual handle used for rotational operation.
+
+312. [Components] Pull Handle: A simple manual handle for doors or panels.
+
+313. [Components] Hinge (Concealed): A hinge that is hidden when the door is closed.
+
+314. [Components] Gas Strut: A gas-filled support for lifting heavy lids or doors.
+
+315. [Components] Latch (Draw): A latch used to pull and secure two parts together.
+
+316. [Components] Magnetic Latch: A latch that uses a magnet to keep doors shut.
+
+317. [Components] Door Seal (Bulb): A rubber seal for cabinet or door edges.
+
+318. [Components] Window (Polycarbonate): A high-impact resistant machine guard window.
+
+319. [Components] Safety Interlock Switch: A switch that prevents machine operation when a guard is open.
+
+320. [Components] Signal Tower (Stack Light): An indicator light system showing machine status.
+
+321. [Components] Waveguide: A structure used to guide electromagnetic waves.
+
+322. [Components] Optical Fiber: A flexible fiber used for light transmission.
+
+323. [Components] Prism: An optical element that refracts light.
+
+324. [Components] Beam Splitter: An optical device that splits a light beam.
+
+325. [Components] Mirror (Front-surface): A mirror with the reflective layer on the front.
+
+326. [Components] Filter (Optical): Used to select specific wavelengths of light.
+
+327. [Components] Lens (Achromatic): A lens designed to correct for chromatic aberration.
+
+328. [Components] Aperture: An opening that limits the amount of light.
+
+329. [Components] Piezoelectric Transducer: Converts electrical energy into mechanical movement.
+
+330. [Components] MEMS: Micro-Electro-Mechanical Systems.
+
+331. [Components] Cantilever Beam (Sensor): A flexible beam used in precision sensors.
+
+332. [Components] Diaphragm (Pressure): A flexible element in pressure sensors.
+
+333. [Components] Strain Gauge: A device that changes electrical resistance under strain.
+
+334. [Components] Resonator: A component that oscillates at a specific frequency.
+
+335. [Components] Tuning Fork: A device providing a stable frequency reference.
+
+336. [Components] Sine Bar: A tool for the precise measurement of angles.
+
+337. [Components] Gauge Block: A block used for high-precision length measurement.
+
+338. [Components] Dial Indicator: An instrument for measuring small linear distances.
+
+339. [Components] Micrometer: An instrument for high-precision distance measurement.
+
+340. [Components] Vernier Caliper: An instrument for measuring thickness and depth.
+
+341. [Components] Dovetail Slide: A precision sliding mechanism.
+
+342. [Components] V-Block: A tool for supporting cylindrical parts during inspection.
+
+343. [Components] Surface Plate: A flat plate used as a reference for inspection.
+
+344. [Components] Granite Base: A high-stability foundation for precision machines.
+
+345. [Components] Air Bearing: A bearing that uses a thin film of air to support load.
+
+346. [Components] Bin (Stackable): A container for organizing small parts.
+
+347. [Components] Shelving Unit: Metal storage shelving for industrial use.
+
+348. [Components] Tool Chest: A mobile storage unit for hand tools.
+
+349. [Components] Pallet: A platform for material handling and storage.
+
+350. [Components] Drum (55-gallon): A standard industrial container for liquids.
+
+351. [Components] Bellows (Accordion): Flexible cover for rods or rails to protect from debris.
+
+352. [Components] Way Cover (Telescopic): A cover used to protect machine slideways.
+
+353. [Components] Chip Conveyor: A system to remove metal shavings from a machine.
+
+354. [Components] Coolant Pump: A pump that delivers coolant to cutting tools.
+
+355. [Components] Mist Collector: A device used to remove oil mist from the air.
+
+356. [Components] Vacuum Cup: A cup used for picking up objects with a vacuum.
+
+357. [Components] Venturi Vacuum Generator: Generates vacuum using compressed air.
+
+358. [Components] Vacuum Gauge: A gauge that measures the level of vacuum.
+
+359. [Components] Valve Manifold: A single block containing multiple pneumatic valves.
+
+360. [Components] Muffler (Silencer): A device to reduce noise from pneumatic exhaust.
+
+361. [Components] Check Valve (Swing): A gravity-assisted valve allowing one-way flow.
+
+362. [Components] Globe Valve: A valve used for flow regulation.
+
+363. [Components] Plug Valve: A valve that uses a tapered plug to stop flow.
+
+364. [Components] Solenoid Coil: The electromagnetic part of a solenoid valve.
+
+365. [Components] Armature: The moving part inside an electromagnetic device.
+
+366. [Components] Brush Holder: A component that holds motor brushes in position.
+
+367. [Components] Commutator Bars: Segmented parts of a commutator for DC motors.
+
+368. [Components] Rotor: The rotating part of an electric motor.
+
+369. [Components] Stator: The stationary part of an electric motor.
+
+370. [Components] Winding: The coils of copper wire in an electric motor.
+
+371. [Components] Eye Nut: A nut with a circular loop on top.
+
+372. [Components] Shoulder Screw: A precision screw with a ground unthreaded shank.
+
+373. [Components] Thumb Screw: A screw designed to be tightened by hand.
+
+374. [Components] Knurled Nut: A nut with a textured surface for better grip.
+
+375. [Components] Weld Stud: A stud designed to be welded onto a surface.
+
+376. [Components] Cross-brace: A member used to reinforce a structural frame.
+
+377. [Components] Gusset Plate: A plate used to strengthen a joint in a frame.
+
+378. [Components] Floor Anchor: A device to secure machine bases to the floor.
+
+379. [Components] Leveling Plate: A plate providing a base for machine leveling.
+
+380. [Components] Shim Stock: Thin metal sheet used for making shims.
+
+381. [Components] Quick-Connect Coupling: A fitting for fast connection of fluid lines.
+
+382. [Components] Push-to-Connect Fitting: A pneumatic fitting for plastic tubing.
+
+383. [Components] Bulkhead Fitting: A fitting designed to pass fluid through a panel.
+
+384. [Components] Strainer (Y-Type): A filter for pipeline systems.
+
+385. [Components] Expansion Joint: A joint designed to absorb pipe thermal expansion.
+
+386. [Components] Push-button (Mushroom): A large safety button for emergency stop.
+
+387. [Components] Rotary Switch: A multi-position selector switch.
+
+388. [Components] Key Switch: A switch that requires a key to operate.
+
+389. [Components] Potentiometer (Slide): A linear position input device.
+
+390. [Components] Banana Plug: A standard connector used for electrical testing.
+
+391. [Components] Sine Plate: A tool for precise angular positioning.
+
+392. [Components] Micrometer Head: A component used for fine manual mechanical adjustment.
+
+393. [Components] Collet (Spring): A sleeve used to hold tools or workpieces precisely.
+
+394. [Components] Magnetic Base: A base used for holding dial indicators.
+
+395. [Components] Depth Gauge: A tool for measuring the depth of holes or slots.
+
+396. [Components] Grommet (Rubber): A protective ring used to protect wires passing through holes.
+
+397. [Components] Strain Relief: A device used to prevent a cable from being pulled out of its connector.
+
+398. [Components] Cable Tie: A fastener used for organizing wire bundles.
+
+399. [Components] Heat Shrink Tubing: A shrinkable tube for electrical insulation.
+
+400. [Components] Labeling Plate: A plate used for identifying machine components.
+
+
+
+
+
+
+
+
+
+401. [Components] Actuator (Linear): Device for producing straight-line motion.
+
+402. [Components] Adapter (Flange): Connects different pipe sizes or standards.
+
+403. [Components] Adhesive (Structural): High-strength bonding agent.
+
+404. [Components] Air Cylinder (Miniature): Small pneumatic actuator.
+
+405. [Components] Air Gun: Nozzle for manual air cleaning.
+
+406. [Components] Air Intake Filter: Protects compressors from dust.
+
+407. [Components] Air Knife: Uses compressed air for drying/cleaning.
+
+408. [Components] Alarm (Buzzer): Audible notification device.
+
+409. [Components] Alignment Dowel: Pin used for precise positioning of parts.
+
+410. [Components] Alloy Steel Bolt: High-strength fastening hardware.
+
+411. [Components] Alternator: Converts mechanical energy to AC electricity.
+
+412. [Components] Aluminum Extrusion: Structural framing member.
+
+413. [Components] Ampere Meter: Device to measure electrical current.
+
+414. [Components] Analog-to-Digital Converter (ADC): Electronic sensor interface.
+
+415. [Components] Anchor (Expansion): Fastener for masonry or concrete.
+
+416. [Components] Angle Bracket: Structural reinforcement for corners.
+
+417. [Components] Angle Sensor: Measures angular orientation.
+
+418. [Components] Annealed Copper Wire: Soft, flexible electrical wire.
+
+419. [Components] Anode: Positive electrode in electrochemical devices.
+
+420. [Components] Antenna: Device for wireless signal reception.
+
+421. [Components] Anti-Backlash Gear: Gear designed to eliminate play.
+
+422. [Components] Anti-Static Mat: Workplace safety equipment.
+
+423. [Components] Anti-Vibration Mount: Isolates machine components from shocks.
+
+424. [Components] Apron (Machine): Guard for protecting machine ways.
+
+425. [Components] Arc Suppressor: Protects relay contacts from arcing.
+
+426. [Components] Armature (Motor): The rotating winding of a DC motor.
+
+427. [Components] Audio Jack: Connector for sound signals.
+
+428. [Components] Auto-Lubricator: Automated system for greasing.
+
+429. [Components] Axial Fan: Standard airflow fan.
+
+430. [Components] Axial Load Bearing: Supports force parallel to the shaft.
+
+431. [Components] Babbitt Bearing: Soft-metal sleeve bearing.
+
+432. [Components] Back-up Ring: Prevents O-ring extrusion.
+
+433. [Components] Baffle: Plate used to direct flow.
+
+434. [Components] Bag Filter: Industrial dust collection media.
+
+435. [Components] Balance Weight: Used to adjust rotating mass.
+
+436. [Components] Ball Bearing (Radial): Supports rotational load.
+
+437. [Components] Ball Check Valve: One-way valve using a ball element.
+
+438. [Components] Ball End Mill: Milling tool for contoured surfaces.
+
+439. [Components] Ball Pivot: Connection allowing rotational flexibility.
+
+440. [Components] Ball Transfer Unit: For multidirectional material movement.
+
+441. [Components] Band Clamp: Circular clamping device.
+
+442. [Components] Band Saw Blade: Cutting tool for band saws.
+
+443. [Components] Bar Stock: Raw material (round/square).
+
+444. [Components] Base Plate: Primary mounting surface.
+
+445. [Components] Battery (Lithium): Power storage.
+
+446. [Components] Bayonet Connector: Quick-twist locking connector.
+
+447. [Components] Beam (I-Section): Structural support member.
+
+448. [Components] Bearing Cap: Covers and protects a bearing.
+
+449. [Components] Bearing Housing: Cast support for a bearing.
+
+450. [Components] Bellows (Metal): Flexible, leak-proof expansion joint.
+
+451. [Components] Belt (Timing): Synchronous power transmission.
+
+452. [Components] Belt (V-Type): Friction-based drive belt.
+
+453. [Components] Bench Vise: Stationary holding tool.
+
+454. [Components] Bevel Gear: Used for intersecting shaft transmission.
+
+455. [Components] Bimetallic Thermostat: Heat-activated switch.
+
+456. [Components] Binding Post: Electrical terminal connector.
+
+457. [Components] Bit (Drill): Tool for boring holes.
+
+458. [Components] Blade (Utility): Cutting edge.
+
+459. [Components] Blanking Plate: Covers unused holes or slots.
+
+460. [Components] Bleeder Valve: Used to release air/fluid from systems.
+
+461. [Components] Block (Terminal): Wire distribution block.
+
+462. [Components] Blow-Gun: Pneumatic cleaning tool.
+
+463. [Components] Bobbin (Coil): Support for winding wire.
+
+464. [Components] Bolt (Hex Head): Standard fastening bolt.
+
+465. [Components] Bolt (Stud): Threaded at both ends.
+
+466. [Components] Boom (Material Handling): Extension arm.
+
+467. [Components] Boot (Protective): Rubber cover for moving parts.
+
+468. [Components] Boss (Mounting): Raised feature for securing parts.
+
+469. [Components] Bowden Cable: Flexible push-pull cable.
+
+470. [Components] Box (Junction): Electrical connection enclosure.
+
+471. [Components] Brace (Cross): Structural reinforcement.
+
+472. [Components] Bracket (L-Type): Corner support.
+
+473. [Components] Brake (Electromagnetic): Stops rotation via magnet.
+
+474. [Components] Brake Disc: Friction surface for braking.
+
+475. [Components] Brake Lining: Wear surface for brakes.
+
+476. [Components] Brass Bushing: Non-sparking, low-friction insert.
+
+477. [Components] Braided Hose: Reinforced flexible pipe.
+
+478. [Components] Breadboard: Prototyping circuit base.
+
+479. [Components] Breaker (Circuit): Safety power switch.
+
+480. [Components] Breather Plug: Allows pressure equalization in tanks.
+
+481. [Components] Bridge Rectifier: AC to DC converter.
+
+482. [Components] Bronze Bearing: Self-lubricating bushing.
+
+483. [Components] Brush (Carbon): Contact for electric motors.
+
+484. [Components] Bubble Level: Tool for measuring surface level.
+
+485. [Components] Buffer (Polishing): Surface finishing tool.
+
+486. [Components] Bulkhead (Fitting): Through-panel connector.
+
+487. [Components] Bumper (Door): Impact cushion.
+
+488. [Components] Busbar: High-current power distribution strip.
+
+489. [Components] Bushing (Split): Easily removable sleeve.
+
+490. [Components] Butterfly Hinge: Decorative low-profile hinge.
+
+491. [Components] Buzzer (Piezo): Electronic alarm.
+
+492. [Components] Cable (Coaxial): Signal transmission line.
+
+493. [Components] Cable (Flat Ribbon): Multicore parallel data cable.
+
+494. [Components] Cable Carrier: Protective track for moving cables.
+
+495. [Components] Cable Cleat: Holds heavy cables in place.
+
+496. [Components] Cable Gland: Weatherproof cable entry.
+
+497. [Components] Cage (Bearing): Retains rolling elements.
+
+498. [Components] Caliper (Digital): Precise measuring tool.
+
+499. [Components] Cam Follower: Bearing used to follow cam profiles.
+
+500. [Components] Camshaft: Rotating part containing multiple cams.
+[Image of cam and follower mechanism]
+
+
+
+
+
+
+
+
+
+
+501. [Components] Cantilever Spring: One-end-fixed flexible beam.
+
+502. [Components] Capacitor (Ceramic): High-frequency filter.
+
+503. [Components] Capacitor (Tantalum): Stable storage capacitor.
+
+504. [Components] Capstan: Rotary drum for pulling ropes/cables.
+
+505. [Components] Carbon Brush: Power contact for motors.
+
+506. [Components] Cardan Joint: Universal joint for torque.
+
+507. [Components] Carriage (Linear): Moving platform on a rail.
+
+508. [Components] Cartridge Fuse: Replaceable circuit protection.
+
+509. [Components] Case (Enclosure): Protective housing.
+
+510. [Components] Casting (Die): Precision molded metal part.
+
+511. [Components] Catalyst: Chemical reaction initiator.
+
+512. [Components] Cathode: Negative electrode.
+
+513. [Components] Cell (Photo): Light sensor.
+
+514. [Components] Centrifugal Clutch: Automatic engaging clutch.
+
+515. [Components] Ceramic Insulator: Prevents electrical conductivity.
+
+516. [Components] Chain (Roller): Power transmission chain.
+
+517. [Components] Chain Link: Single element of a chain.
+
+518. [Components] Chamber (Pressure): Sealed volume.
+
+519. [Components] Channel (Strut): Structural mounting rail.
+
+520. [Components] Charging Port: Power entry point.
+
+521. [Components] Chassis: Main structural frame.
+
+522. [Components] Check Valve: Prevents backflow.
+
+523. [Components] Chimney (Exhaust): Venting conduit.
+
+524. [Components] Choke (Inductor): Filter element.
+
+525. [Components] Chrome Plating: Corrosion-resistant finish.
+
+526. [Components] Chuck (Drill): Tool clamping mechanism.
+
+527. [Components] Circuit Breaker: Safety switch.
+
+528. [Components] Circulating Pump: Moves fluid in a loop.
+
+529. [Components] Clamp (Toggle): Quick-release work holding.
+
+530. [Components] Cleanout Plug: Access point in piping.
+
+531. [Components] Clevis: U-shaped fastener.
+
+532. [Components] Clip (Spring): Elastic fastener.
+
+533. [Components] Clutch (Friction): Engage/disengage mechanism.
+
+534. [Components] Coil (Solenoid): Electromagnetic actuator.
+
+535. [Components] Coil Spring: Energy storage element.
+
+536. [Components] Cold Plate: Cooling interface.
+
+537. [Components] Collector Ring: Slip ring for current.
+
+538. [Components] Collet: Tool holding sleeve.
+
+539. [Components] Column (Structural): Vertical support.
+
+540. [Components] Commutator: Rotary switch in DC motors.
+
+541. [Components] Compression Fitting: Tube sealing fitting.
+
+542. [Components] Compressor (Air): Generates compressed air.
+
+543. [Components] Concave Mirror: Focuses light.
+
+544. [Components] Concrete Anchor: Fastener for masonry.
+
+545. [Components] Condenser: Heat exchanger for cooling.
+
+546. [Components] Conduit: Protective tubing for wiring.
+
+547. [Components] Cone Point Screw: Precise positioning screw.
+
+548. [Components] Connector (Circular): Industrial signal plug.
+
+549. [Components] Contact Point (Electrical): Switch surface.
+
+550. [Components] Contact Spring: Provides tension for switches.
+
+551. [Components] Contactor (Magnetic): Motor power relay.
+
+552. [Components] Control Panel: Operator interface housing.
+
+553. [Components] Converter (DC-DC): Voltage changer.
+
+554. [Components] Conveyor Belt: Material transport.
+
+555. [Components] Cooling Fan: Thermal management.
+
+556. [Components] Cooling Fin: Heat dissipation surface.
+
+557. [Components] Copper Busbar: Power distribution.
+
+558. [Components] Core (Transformer): Magnetic path.
+
+559. [Components] Corner Block: Frame reinforcement.
+
+560. [Components] Corrosion Inhibitor: Surface treatment.
+
+561. [Components] Cotter Pin: Locking pin.
+
+562. [Components] Counterbore: Recessed hole for bolt head.
+
+563. [Components] Countersink: Tapered hole for flat-head screws.
+
+564. [Components] Counterweight: Mass balance.
+
+565. [Components] Coupler (Fluid): Fast-connect fluid fitting.
+
+566. [Components] Coupling (Flexible): Misalignment-tolerant connector.
+
+567. [Components] Cover (Dust): Protective barrier.
+
+568. [Components] Crank: Rotary handle.
+
+569. [Components] Crankshaft: Converts linear to rotary.
+
+570. [Components] Crimp Connector: Wire termination.
+
+571. [Components] Cross Fitting: Four-way piping junction.
+
+572. [Components] Crucible: High-temp melting vessel.
+
+573. [Components] Cup Seal: Piston seal.
+
+574. [Components] Current Limiter: Protection device.
+
+575. [Components] Current Transformer: Measuring transformer.
+
+576. [Components] Cursor: Scale indicator.
+
+577. [Components] Cushion (Pneumatic): Impact dampener in cylinders.
+
+578. [Components] Cut-off Valve: Emergency stop valve.
+
+579. [Components] Cutting Tool: Machine tool tip.
+
+580. [Components] Cylinder (Pneumatic): Linear actuator.
+
+581. [Components] Damper (Vibration): Kinetic energy absorber.
+
+582. [Components] Data Link: Communication interface.
+
+583. [Components] DC Motor: Direct current motor.
+
+584. [Components] Deadbolt: Locking mechanism.
+
+585. [Components] Deburring Tool: Edge finishing.
+
+586. [Components] Decal (Warning): Safety marking.
+
+587. [Components] Deep Groove Bearing: High-speed bearing.
+
+588. [Components] Deflector: Flow management plate.
+
+589. [Components] Delay Timer: Time-based switch.
+
+590. [Components] Density Sensor: Liquid property monitor.
+
+591. [Components] Depth Stop: Drilling depth controller.
+
+592. [Components] Desiccant: Moisture absorbent.
+
+593. [Components] Detent: Position-locking mechanism.
+
+594. [Components] Dial Indicator: Precision measuring.
+
+595. [Components] Die (Threading): External threading tool.
+
+596. [Components] Differential Gear: Rotational speed divider.
+
+597. [Components] Digital Display: Data read-out.
+
+598. [Components] DIN Rail: Component mounting rail.
+
+599. [Components] Diode (Bridge): Rectifier assembly.
+
+600. [Components] Dip Stick: Level indicator
+
+
+
+
+
+
+
+
+
+
+601. [Components] Directional Valve: Flow-path control.
+
+602. [Components] Discharge Valve: System output.
+
+603. [Components] Display (HMI): Human-machine interface.
+
+604. [Components] Distributor (Ignition): Signal router.
+
+605. [Components] Divider (Flow): Splits hydraulic flow.
+
+606. [Components] Dog Clutch: Simple mechanical engagement.
+
+607. [Components] Dolly: Transport base.
+
+608. [Components] Dome Nut: Decorative/protective nut.
+
+609. [Components] Door Closer: Automatic closing mechanism.
+
+610. [Components] Door Latch: Securing mechanism.
+
+611. [Components] Door Seal: Weather stripping.
+
+612. [Components] Double-Acting Cylinder: Two-way air actuator.
+
+613. [Components] Dovetail Guide: Sliding mechanism.
+
+614. [Components] Dowel Pin: Alignment pin.
+
+615. [Components] Draft Fan: Exhaust mover.
+
+616. [Components] Drag Chain: Cable protection.
+
+617. [Components] Drain Cock: Fluid removal valve.
+
+618. [Components] Drawbar: Tool holding rod.
+
+619. [Components] Drawer Slide: Extension mechanism.
+
+620. [Components] Drift Pin: Alignment tool.
+
+621. [Components] Drill Bushing: Drilling guide.
+
+622. [Components] Drill Chuck: Tool holder.
+
+623. [Components] Drive Belt: Power transmission.
+
+624. [Components] Drive Shaft: Power transmission rod.
+
+625. [Components] Drop Forging: Manufacturing process.
+
+626. [Components] Drum (Cable): Cable storage.
+
+627. [Components] Dry-Type Transformer: Air-cooled transformer.
+
+628. [Components] Duct (Air): Air flow path.
+
+629. [Components] Dummy Plug: Connection port cover.
+
+630. [Components] Dust Cover: Protection.
+
+631. [Components] Duty Cycle Timer: Programmable timer.
+
+632. [Components] Eccentric Cam: Motion converter.
+
+633. [Components] Eccentric Shaft: Crank mechanism.
+
+634. [Components] E-Clip: External retaining ring.
+
+635. [Components] Edge Protector: Damage prevention.
+
+636. [Components] Elbow Fitting: 90-degree bend.
+
+637. [Components] Electric Actuator: Motorized controller.
+
+638. [Components] Electric Motor: Energy converter.
+
+639. [Components] Electrode: Electrical contact.
+
+640. [Components] Electrolytic Capacitor: Storage component.
+
+641. [Components] Electronic Relay: Solid-state switch.
+
+642. [Components] Element (Filter): Replaceable media.
+
+643. [Components] Elevator (Material): Vertical conveyor.
+
+644. [Components] Emergency Stop: Safety device.
+
+645. [Components] EMI Filter: Noise suppression.
+
+646. [Components] Enclosure: Housing unit.
+
+647. [Components] Encoder (Rotary): Position sensor.
+
+648. [Components] End Bearing: Shaft support.
+
+649. [Components] End Mill: Milling cutter.
+
+650. [Components] End Plate: Frame closure.
+
+651. [Components] Energy Chain: Cable carrier.
+
+652. [Components] Engine (Internal Combustion): Power source.
+
+653. [Components] Epoxy: Adhesive.
+
+654. [Components] Equalizer: Load balancing link.
+
+655. [Components] Escapement: Timing mechanism.
+
+656. [Components] Etched Label: Identification.
+
+657. [Components] Evaporator: Refrigeration component.
+
+658. [Components] Expansion Bolt: Anchoring.
+
+659. [Components] Expansion Tank: Fluid volume compensator.
+
+660. [Components] Extension Spring: Tension spring.
+
+661. [Components] Extractor: Removal tool.
+
+662. [Components] Extruder: Material shaper.
+
+663. [Components] Eye Bolt: Lifting point.
+
+664. [Components] Eyelet: Reinforcing ring for holes.
+
+665. [Components] Fabricated Part: Constructed component.
+
+666. [Components] Face Plate: Lathe mounting.
+
+667. [Components] Fan (Cooling): Air mover.
+
+668. [Components] Fan Guard: Protection.
+
+669. [Components] Fastener: Hardware.
+
+670. [Components] Feeder (Vibratory): Part orienter.
+
+671. [Components] Felt Seal: Lubricant retainer.
+
+672. [Components] Ferrule: Pipe reinforcing ring.
+
+673. [Components] Fiber Optic: Light pipe.
+
+674. [Components] Field Coil: Motor winding.
+
+675. [Components] Filament: Light source.
+
+676. [Components] Filler Cap: Tank access.
+
+677. [Components] Filler Neck: Tank connection.
+
+678. [Components] Film (Capacitor): Dielectric.
+
+679. [Components] Filter (Air): Dust removal.
+
+680. [Components] Filter (Fluid): Particle removal.
+
+681. [Components] Fin (Cooling): Heat sink element.
+
+682. [Components] Finger Guard: Fan safety.
+
+683. [Components] Finishing Tool: Surface cleaner.
+
+684. [Components] Fire Sensor: Safety device.
+
+685. [Components] Fitting (Pneumatic): Air connector.
+
+686. [Components] Fixator: Alignment device.
+
+687. [Components] Flange: Pipe connection.
+
+688. [Components] Flange Bolt: Flanged fastener.
+
+689. [Components] Flange Bearing: Flanged housing.
+
+690. [Components] Flange Gasket: Seal.
+
+691. [Components] Flap Valve: Directional flow.
+
+692. [Components] Flare Fitting: High-pressure tube seal.
+
+693. [Components] Flashlight: Inspection tool.
+
+694. [Components] Flat Belt: Drive belt.
+
+695. [Components] Flat Head Screw: Countersunk fastener.
+
+696. [Components] Flat Washer: Spacing washer.
+
+697. [Components] Flexible Coupling: Misalignment joint.
+
+698. [Components] Float: Level sensor element.
+
+699. [Components] Float Valve: Level controller.
+
+700. [Components] Flow Control Valve: Speed regulator.
+
+
+
+
+
+
+
+
+

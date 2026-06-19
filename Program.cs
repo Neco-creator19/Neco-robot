@@ -4,55 +4,64 @@ class Program
 {
     static void Main(string[] args)
     {
-       Memory.LoadUserName();
+        InitializationSystem();
+        RunMainLoop();
+    }
 
-       if
-       (GreetingHandler.GreetUser())
+    static void InitializationSystem()
+    {
+        KnowledgeHandler.InitializeIndex();
+        Memory.LoadUserName();
+        if (GreetingHandler.GreetUser())
         {
             Console.WriteLine("\n[System] Initialization successful. System Online.");
-        
+        }
+    }
+
+    static void RunMainLoop()
+    {
+        bool hasNewInfo = false;
         while (true)
         {
-            Console.WriteLine("\n-------------------------------------------------");
-
-            Console.WriteLine("Master, what is your command? (task / attack / exit)");
-
-            string mood = Console.ReadLine()!.ToLower();
-
-            if (mood == "exit")
+            if (!hasNewInfo && KnowledgeHandler.CheckForUpdates())
             {
-                Console.WriteLine("System shutting down. Goodbye, Master.");
-                break;
+                hasNewInfo = true;
+
+                Console.WriteLine("\n[Neco] Master, I have discovered new information. Use 'review' to see it.");
             }
-            if (mood == "attack")
+
+            Console.Write("\nMaster:");
+            string input = Console.ReadLine()!;
+
+            if (string.IsNullOrWhiteSpace(input))
+            continue;
+
+            if (input.ToLower() == "exit")break;
+
+            if (input.ToLower() == "review")
             {
-                Console.WriteLine("Enter target action:");
+                if (hasNewInfo)
+                {
+                    Console.WriteLine("[Neco] Displaying new information...");
 
-                string cmd = Console.ReadLine()!;
-
-                RuleHandler.EvaluateAction(cmd);
-            }
-            else
-
-            if (mood == "task")
-                    {
-                        while (true)
-                        {
-                            Console.WriteLine("\n[Task Mood] Command: (neco / master / battery / exit)");
-
-                            string cmd = Console.ReadLine()!.ToLower();
-
-                            if (cmd == "exit")
-                            break;
-
-                            TaskHandler.ProcessCommand(cmd, ref RobotBrain.batteryLevel);
-                        }
-                    }
+                    KnowledgeHandler.DisplayNewInfo();
+                    hasNewInfo = false;
                 }
-            }
                 else
                 {
-                    Console.WriteLine("[Critical] Authentication failed. Access Denied.");
+                    Console.WriteLine("[Neco] No new information at the moment, Master.");
                 }
+                continue;
             }
+
+            if (!SecurityHandler.IsInputSafe(input))
+            {
+                Console.WriteLine("[System] Command blocked for safety.");
+                continue;
+            }
+
+            string query = input.ToLower().Replace("what is", "").Trim();
+            KnowledgeHandler.SearchKnowledge(query);
         }
+    }
+}

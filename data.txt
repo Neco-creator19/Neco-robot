@@ -1,1 +1,5 @@
-Warning: Battery Low!
+[Math]: Pi is 3.14159. The area of a circle id pI * r * r.
+
+[Science]: Photosynthesis is how plantsmake food using light. Water is H2O.
+
+[Programming]: C# is an object-oriented language developed by Microsoft.

@@ -1,0 +1,7 @@
+gear:wheel,cog,transmission 
+movement:motion,kinematics,displacement
+controller:pid,feedback,governor
+pin:fastenner,dowel,cootter, 
+shaft mechanical machine,engineering,structural
+kill:terminate,destroy,end,stop
+attack:assault,strike,hit

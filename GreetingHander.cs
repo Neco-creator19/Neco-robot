@@ -15,7 +15,7 @@ public class GreetingHandler
         if (passwordInput == correctPassword)
 
         {
-        Console.WriteLine($"Welcome back, {name}!");
+        Console.WriteLine($"Master {name}, I am online and updates.How can i help you today? ");
                 return true;
             }
             else
