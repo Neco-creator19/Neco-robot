@@ -3,12 +3,12 @@ using System.IO;
 
 public static class SecurityHandler
 {
-    public static bool IsInputSafe(string input)
+        public static bool IsInputSafe(string input)
     {
         string cleanInput = input.ToLower().Trim();
 
-        string forbiddenPath = PathManager.GetForbiddenFilePath();
-        string synonymsPath = PathManager.GetSynonymsFilePath();
+        string forbiddenPath = @"C:\Users\USER\Desktop\Programming\Shadow_X\KnowledgeBase\ForbiddenWords.txt";
+        string synonymsPath = @"C:\Users\USER\Desktop\Programming\Shadow_X\KnowledgeBase\SystemData\Synonyms.txt";
 
         if (File.Exists(forbiddenPath))
         {
