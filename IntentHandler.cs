@@ -7,6 +7,19 @@ public class IntentHandler
     {
         string input = userInput.ToLower().Trim();
 
+        string synnoymFound = SynnoymMatcher.CheckSynonyms(input);
+
+        if (synnoymFound != "NO_SYNONYM")
+        {
+            string checkWord = synnoymFound.ToLower().Trim();
+
+            if (checkWord == "kill" || checkWord == "destroy" || checkWord == "delete" || checkWord == "drop" 
+            || checkWord == "attack")
+            {
+                return "DANGER_WORD";
+            }
+        }
+
         string greetingPattern = @"\b(hi|hello|hey|yo|mingalaba)\b";
 
         string namePattern = @"\b(name|who are you)\b";

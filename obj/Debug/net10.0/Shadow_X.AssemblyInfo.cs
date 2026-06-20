@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shadow_X")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+799648467cd8717f8af4de7115e3b7888d1648e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dff6dc0f09b6c6fc5f39b163a253779256009c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shadow_X")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shadow_X")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

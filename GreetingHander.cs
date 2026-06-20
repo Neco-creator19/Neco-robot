@@ -55,6 +55,11 @@ public class GreetingHandler
             Console.WriteLine("[Neco] I am Neco, your Shadow.");
         }
 
+        else if (intent =="DANGER_WORD")
+        {
+            Console.WriteLine("[Neco] Warning: Action blocked. Synonyms list detected restricted command!");
+        }
+
         else
         {
             Console.WriteLine($"[Neco] Processing: '{originalInput}'(This will be handled by local AI later).");

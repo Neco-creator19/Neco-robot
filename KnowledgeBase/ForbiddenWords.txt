@@ -1,5 +1,1 @@
-attack
-kill
-destory
-dark hack
-drop
+attack,kill,destory,dark hack,drop,delete
