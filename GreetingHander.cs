@@ -1,27 +1,63 @@
 using System;
+using System.IO;
 
 public class GreetingHandler
 {
-    public static bool GreetUser()
+    public static void DisPlayGreeting()
     {
-        string name = Memory.userName;
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.WriteLine("============================================");
+        Console.WriteLine("Welcome to Neco AI System");
+        Console.WriteLine("============================================");
+        Console.ResetColor();    
 
-        string passwordFile = "config.txt";
-        string correctPassword = File.ReadAllText(passwordFile).Trim();
+        string configPath = @"C:\Users\USER\Desktop\Programming\Shadow_X\config.txt";
+        string correctPassword = "";
 
-        Console.WriteLine("Enter Password:");
-        string passwordInput = Console.ReadLine()!;
-
-        if (passwordInput == correctPassword)
-
+        if (File.Exists(configPath))
         {
-        Console.WriteLine($"Master {name}, I am online and updates.How can i help you today? ");
-                return true;
-            }
-            else
-            {
-            Console.WriteLine("Identity verification failed. Shutting down.");
-            return false;
+            correctPassword = File.ReadAllText(configPath).Trim();
+        }
+
+        else
+        {
+            correctPassword = "admin";
+        }
+
+    while (true)
+    {
+
+        Console.Write("Enter Password: ");
+        string password = Console.ReadLine()!;
+
+        if (password == correctPassword)
+        {
+            Console.WriteLine("[System] Access Granted.\n");
+            break;
+        }
+
+        else
+        {
+            Console.WriteLine("[System] Incorrect Password! Access Denied. Please try again.\n");
             }
         }
     }
+
+    public static void HandleResponse(string intent, string originalInput)
+    {
+        if (intent == "GREETING")
+        {
+            Console.WriteLine("[Neco] Hellow Master! How can I assist you today?");
+        }
+
+        else if (intent == "ASK_NAME")
+        {
+            Console.WriteLine("[Neco] I am Neco, your Shadow.");
+        }
+
+        else
+        {
+            Console.WriteLine($"[Neco] Processing: '{originalInput}'(This will be handled by local AI later).");
+        }
+    }
+}
